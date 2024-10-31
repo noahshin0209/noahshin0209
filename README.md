@@ -1,7 +1,7 @@
 ## Thank you for visiting !
 This is Noah Shin
 
-Kyung Pook National Univ. CSE 2th
+Kyung Pook National Univ CSE 2nd grade
 
 Let's grow together 📈📈
 ### ▪️outline
