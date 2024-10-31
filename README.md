@@ -14,7 +14,7 @@ Let's grow together 📈📈
 ### ▪️contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bible0043@gmail.com)](mailto:bible0043@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bible0043@naver.com)](mailto:bible0043@naver.com)
-[![instagram Badge](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=mailto: https://www.instagram.com/noahstagrammmm/profilecard/?igsh=dTg0cWhhYTJ6eGd0)](mailto: https://www.instagram.com/noahstagrammmm/profilecard/?igsh=dTg0cWhhYTJ6eGd0)
+[![instagram Badge](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=mailto:@noahstagrammmm)](mailto:@noahstagrammmm)
 
 
 
