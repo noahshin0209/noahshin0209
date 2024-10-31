@@ -1,4 +1,4 @@
-# Thank you for visiting
+Thank you for visiting
 ## Studying
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bible0043)](https://solved.ac/bible0043/)
 ## Platforms & Languages
