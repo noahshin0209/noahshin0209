@@ -1,4 +1,4 @@
-# Welcome, this is Noah Shin.
+# Welcome
 ### Thank you for visiting
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bible0043)](https://solved.ac/bible0043/)
 # Platforms & Languages
