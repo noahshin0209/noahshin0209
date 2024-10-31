@@ -1,4 +1,4 @@
-![noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahshin0209&show_icons=true&theme=onedark) 
+![noahshin0209's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahshin0209&show_icons=true&theme=onedark) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bible0043)](https://solved.ac/bible0043/)
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
