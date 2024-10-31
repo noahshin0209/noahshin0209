@@ -1,6 +1,8 @@
 ## Thank you for visiting !
-This is Noah Shin\n
-Kyung Pook National Univ. CSE 2th\n
+This is Noah Shin
+
+Kyung Pook National Univ. CSE 2th
+
 please watch my growth 📈📈
 ### ▪️outline
 ![noahshin0209's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahshin0209&show_icons=true&theme=onedark) 
