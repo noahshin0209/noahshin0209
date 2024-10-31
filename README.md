@@ -3,7 +3,7 @@ This is Noah Shin
 
 Kyung Pook National Univ. CSE 2th
 
-please watch my growth 📈📈
+Let's grow together 📈📈
 ### ▪️outline
 ![noahshin0209's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahshin0209&show_icons=true&theme=onedark) 
 ### ▪️rating
