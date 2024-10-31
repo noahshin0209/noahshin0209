@@ -1,5 +1,4 @@
-# Welcome
-### Thank you for visiting
+# Thank you for visiting
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bible0043)](https://solved.ac/bible0043/)
 # Platforms & Languages
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
