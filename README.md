@@ -1,5 +1,5 @@
 ## Thank you for visiting !
-Hi, this is Noah Shin
+Hi, This is Noah Shin
 
 Kyung Pook National Univ CSE 2nd grade
 
